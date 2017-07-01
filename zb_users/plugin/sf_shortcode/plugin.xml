@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>sf_shortcode</id>
+<name>UEditor增强插件</name>
+<url>http://www.iasuna.com</url>
+<note>给UEditor增加几种简单的样式效果</note>
+<description></description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>shellingford</name>
+  <email>shellingford@vip.qq.com</email>
+  <url>http://www.iasuna.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>0.1</version>
+<pubdate>2014-11-23</pubdate>
+<modified>2014-11-23</modified>
+<price>0</price>
+<advanced>
+  <dependency>UEditor</dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

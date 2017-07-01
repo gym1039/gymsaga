@@ -1,0 +1,76 @@
+#mainContent {
+font-family: Microsoft YaHei, 微软雅黑, Verdana, sans-serif, 宋体;
+}
+.column {
+margin-top: 10px;
+}
+.clearfix {
+display: block;
+height: 1%;
+}
+.column h2 {
+color: #006cbf;
+font-size: 24px;
+font-weight: normal;
+}
+.latestTool {
+width: 300px;
+float: left;
+margin-top: 20px;
+padding: 10px;
+background-color: #f6fcff;
+position: relative;
+z-index: 1;
+}
+.latestTool img {
+float: left;
+margin-right: 10px;
+width: 96px;
+height: 96px;
+}
+.latestTool .t_title {
+font-size: 13.5pt;
+font-weight: normal;
+}
+a {
+color: #0088cc;
+text-decoration: none;
+}
+.latestTool .intro {
+font-size: 14px;
+float: right;
+width: 194px;
+margin: 5px 0;
+overflow: hidden;
+}
+
+.detail {
+position: absolute;
+top: 0;
+left: 0;
+z-index: 999;
+width: 400px;
+padding: 10px;
+background-color: #dff5fe;
+}
+
+.boxShadow {
+box-shadow: 2px 2px 10px #AAA;
+-moz-box-shadow: 2px 2px 10px #AAA;
+-webkit-box-shadow: 2px 2px 10px #AAA;
+}
+.detailIntro {
+float: right;
+width: 294px;
+margin: 5px 0;
+}
+.detailTags {
+width: 294px;
+}
+
+.toolActive {
+z-index: 998;
+}
+.breadcrumbs {
+display:none;
+}

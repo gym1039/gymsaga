@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>crocodile</id>
+<name>鳄鱼</name>
+<url>http://www.gymsaga.com/</url>
+<note>Z-Blog的默认主题</note>
+<description>Z-Blog的默认主题.模板由zx制作,娇娇设计.新增了Table日历的支持.</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>gymsaga</name>
+  <email>gym1039@126.com</email>
+  <url>http://www.gymsaga.com</url>
+</author>
+<source>
+  <name>gymsaga</name>
+  <email>gym1039@126.com</email>
+  <url>http://www.gymsaga.com</url>
+</source>
+<adapted>131221</adapted>
+<version>1.7</version>
+<pubdate>2013-07-07</pubdate>
+<modified>2015-04-14</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme><!-- app_host:http://localhost/release/;app_email:;app_user:gym1039; -->
